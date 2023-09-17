@@ -1,2 +1,2 @@
-# UnnamedProject
-Mobile Game
+# IdleGameV2
+Third year project
